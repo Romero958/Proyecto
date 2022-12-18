@@ -1,0 +1,38 @@
+[
+    {
+      "precio":20,
+      "id": 1,
+      "title": " CRISTIANO RONALDO",
+      "thumbnailUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cristiano-ronaldo-of-portugal-looks-dejected-following-news-photo-1624346993.jpg?crop=1.00xw:1.00xh;0,0&resize=640:*"
+    },
+    {
+      "precio": 300000,
+      "id": 2,
+      "title": "LEO MESSI ",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg"
+    },
+    {
+      "precio": 180,
+      "id": 3,
+      "title": "KYLIAN MBAPPÉ",
+      "thumbnailUrl": "https://media.admagazine.com/photos/637d56b80bd425d9f442021c/3:4/w_360,h_480,c_limit/mbappe.jpg"
+    },
+    {
+      "precio": 60,
+      "id": 4,
+      "title": "FERRAN TORRES",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ferran_Torres_2019.png/800px-Ferran_Torres_2019.png"
+    },
+    {
+      "precio": 10,
+      "id": 5,
+      "title": "NEYMAR JR.",
+      "thumbnailUrl": "https://pbs.twimg.com/media/FiRRfNfXEAMCwmk.jpg"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "title": "CHUCKY LOZANO",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Spartak_-_Napoli_%2816%29.jpg"
+    }
+  ]
